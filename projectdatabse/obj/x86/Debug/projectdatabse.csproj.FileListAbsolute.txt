@@ -1,0 +1,78 @@
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\bin\Debug\projectdatabse.exe
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\bin\Debug\projectdatabse.pdb
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form1.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form2.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Properties.Resources.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.exe
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.pdb
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form3.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form4.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form5.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\bin\Debug\MySql.Data.dll
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form6.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form7.resources
+C:\Users\kiran\Documents\Visual Studio 2010\Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form8.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.exe
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.pdb
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\bin\Debug\projectdatabse.exe
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\bin\Debug\projectdatabse.pdb
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form1.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form2.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form3.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form4.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form5.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form6.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form7.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form8.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Properties.Resources.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form9.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.add_new.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form10.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.report1.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\bin\Debug\projectdatabse.exe.config
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Birth.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.memcard.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.electionmember.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.expired.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.old_expiredmem.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.expiredmem.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.honorary_mem.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.letter.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.login.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.staffcard.resources
+C:\Users\kiran\Desktop\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.forget.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.csprojAssemblyReference.cache
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.add_new.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Birth.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.electionmember.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.expired.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.expiredmem.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.forget.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form1.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form10.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form2.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form3.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form4.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form5.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form6.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form7.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form8.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Form9.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.honorary_mem.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.letter.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.login.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.memcard.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.old_expiredmem.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.Properties.Resources.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.report1.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.staffcard.resources
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.csproj.GenerateResource.cache
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.csproj.CoreCompileInputs.cache
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.exe
+D:\dontnet_Projects\projectdatabse\projectdatabse\obj\x86\Debug\projectdatabse.pdb
