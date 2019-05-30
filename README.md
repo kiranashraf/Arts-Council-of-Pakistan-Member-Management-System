@@ -1,0 +1,2 @@
+# Project-database
+This is project based on C# created for Arts Council of Pakistan. It is Memeber registration System. As Arts Council of Pakistan have lots of members and the earlier system was basd on MS Access and there was not profer Front end or Reporting tool. So we have designed this system to add remove and update new members, New Staff, Print Membership card automatically, show the reports of Active members, or the Outstading payments left for members and so on on, on Crystal Reports. 
